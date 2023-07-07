@@ -1,5 +1,5 @@
 Este é um projeto em Next js 13.4 onde faz parte do conteúdo de um vídeo do canal [DeveloperDeck101](https://www.youtube.com/@DeveloperDeck101)
-onde eu mostro [Shadcn-ui](https://ui.shadcn.com/), [Zod](https://zod.dev/) e[React-hook-form](https://react-hook-form.com/)
+onde eu mostro [Shadcn-ui](https://ui.shadcn.com/), [Zod](https://zod.dev/) e [React-hook-form](https://react-hook-form.com/)
 
 Entra no canal e me segue!
 
